@@ -8,7 +8,7 @@ function fetchData(success = true) {
       } else {
         reject("Failed to fetch data.");
       }
-    }, 1500);
+    }, 1000);
   });
 }
 
