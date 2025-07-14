@@ -1,2 +1,10 @@
-# Day-6
-This project is part of my JavaScript learning journey. On Day 6, I practiced creating common types of errors intentionally and handling them using JavaScript's error-handling techniques.
+# Day 6 - Error Handling and Debugging
+
+This repository contains JavaScript practice files focused on error handling and debugging techniques.
+
+## What I Learned
+
+- How to intentionally create and handle different types of errors in JavaScript:
+  - Syntax Errors
+  - Reference Errors
+  - Type Errors
